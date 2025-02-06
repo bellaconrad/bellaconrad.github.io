@@ -1,5 +1,5 @@
 ---
 title: "Resume"
 format: html
+image: media/Bella_Conrad_Resume.pdf
 ---
-

@@ -1,0 +1,6 @@
+---
+title: "Projects"
+format: html
+image: media/ESS_311_Extra_Credit_Project.jpg
+---
+
