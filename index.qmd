@@ -3,7 +3,7 @@ title: "Bella's website"
 image: media/mountain_background.jpeg
 toc: false
 about:
-  template: solana
+  template: marquee
   image-shape: rectangle
   image-width: 15em
   links: 
