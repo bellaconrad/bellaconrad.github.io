@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "bellaconrad.github.io"
+  title: "Bella's website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Resume.qmd
 
 format:
   html:
