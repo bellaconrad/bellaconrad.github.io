@@ -8,9 +8,9 @@ about:
   image-width: 15em
   links: 
     - text: LinkedIn
-      href: https://www.linkedin.com/in/bellaconrad/
+      href: //https://www.linkedin.com/in/bellaconrad/
     - text: Email
-      href: bellaco@colostate.edu
+      href: //bellaco@colostate.edu
     - text: Research Information
     - text: Warner College of Natural Resources
 ---
