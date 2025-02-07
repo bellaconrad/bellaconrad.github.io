@@ -8,7 +8,7 @@ about:
   image-width: 15em
   links: 
     - text: LinkedIn
-      href: https://www.linkedin.com/in/bellaconrad/
+      href: //www.linkedin.com/in/bellaconrad/
     - text: Email
       href: //isabella.conrad@icloud.com
     - text: Research Information
