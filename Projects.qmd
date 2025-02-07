@@ -1,6 +1,7 @@
 ---
 title: "Projects"
-format: html
-image: media/ESS_311_Extra_Credit_Project.jpg
 ---
 
+ESS 311 Extra Credit Project:
+
+![](ESS_311_Extra_Credit_Project.jpg)

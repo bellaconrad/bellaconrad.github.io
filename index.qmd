@@ -1,16 +1,16 @@
 ---
 title: "Bella's website"
-image: media/mountain_background.jpeg
+image: mountain_background.jpeg
 toc: false
 about:
-  template: marquee
+  template: solana
   image-shape: rectangle
   image-width: 15em
   links: 
     - text: LinkedIn
       href: //https://www.linkedin.com/in/bellaconrad/
     - text: Email
-      href: isabella.conrad@icloud.com
+      href: //bellaco@colostate.edu
     - text: Research Information
     - text: Warner College of Natural Resources
 ---
