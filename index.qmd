@@ -1,5 +1,5 @@
 ---
-title: "Bella's website"
+title: "Bella's Website"
 image: mountain_background.jpeg
 toc: false
 about:
@@ -8,9 +8,9 @@ about:
   image-width: 15em
   links: 
     - text: LinkedIn
-      href: //https://www.linkedin.com/in/bellaconrad/
+      href: https://www.linkedin.com/in/bellaconrad/
     - text: Email
-      href: //bellaco@colostate.edu
+      href: //isabella.conrad@icloud.com
     - text: Research Information
     - text: Warner College of Natural Resources
 ---
