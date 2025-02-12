@@ -4,9 +4,13 @@ title: "Projects"
 
 In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!
 
-## [Building a project website](https://github.com/bellaconrad)
+## [My Spring 2025 Work](https://github.com/bellaconrad)
 
-\- In this assignment we built a static users site with Github Pages - Includes a github repo for access to all the code. - Look at how high quality my work is!
+\- In this assignment we built a static users site with Github Pages
+
+\- Includes a github repo for access to all the code.
+
+\- Look at how high quality my work is!
 
 Here is an extra credit project for a class in the Fall 24 semester!
 
