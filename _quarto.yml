@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Bella's Website"
+  title: "Bella Conrad's Website"
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +11,11 @@ website:
       - about.qmd
       - Resume.qmd
       - Projects.qmd
-
+  favicon: media/favicon-ess330.jpg
+  page-footer: 
+    background: light
+    left: "Made by Bella Conrad, 2024"
+    right: 'This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}'
 format:
   html:
     theme: cosmo

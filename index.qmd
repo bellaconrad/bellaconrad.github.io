@@ -1,16 +1,16 @@
 ---
-title: "Bella's Website"
-image: mountain_background.jpeg
+title: "Bella Conrad's Website"
+image: media/SSC-headshot-01-2024.jpg
 toc: false
 about:
-  template: solana
+  template: jolla
   image-shape: rectangle
   image-width: 15em
   links: 
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: //www.linkedin.com/in/bellaconrad/
-    - text: Email
+    - icon: envelope
+      text: Email
       href: //isabella.conrad@icloud.com
-    - text: Research Information
-    - text: Warner College of Natural Resources
 ---
